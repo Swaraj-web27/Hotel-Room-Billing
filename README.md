@@ -1,3 +1,8 @@
+Name- Swaraj Wanjale
+Department- Computer Engineering
+Roll no.- 122
+Division- CE2
+
 1. Introduction
 A hotel room booking system is a software application designed to facilitate the process of reserving rooms at a hotel. It allows customers to book rooms based on their preferences, such as room type and stay duration, while also managing pricing. This system improves operational efficiency for hotels and enhances customer experience by providing a quick and easy way to book rooms.
 
@@ -117,6 +122,7 @@ Total Bill = 110000Rs
 
 6. Implementation 
 The project is published on google for easy access to the code.
+https://github.com/Swaraj-web27/Hotel-Room-Billing/tree/main
 
 7. Conclusion
 The hotel room billing system developed successfully automates the process of booking rooms and calculating the total bill based on customer preferences. By accepting essential customer details and allowing selection among different room types with fixed rates, the system ensures accurate and efficient billing.
